@@ -6,4 +6,4 @@ git changes 1 and add
 just change after add before commit
 creating a new branch is quick
 
-creating a new branch is quick &simple
+creatin a new branch is quick and simple
